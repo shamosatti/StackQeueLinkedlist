@@ -24,11 +24,13 @@ Key Purposes:
 Shows how to add, remove, and view items using the First In, First Out (FIFO) method.
 The first item added is the first one to be removed.
 
-Time Complexity
+Time Complexity?
+
 Stack Operations (push, pop): O(1) – Fast because we always work with the top item.
 Queue Operations (enqueue, dequeue): O(1) – Fast because we always work with the front item.
 
 HOW its work?
+
 Copy the code into a file (e.g., stack_queue.py).
 Run the file.
 The program will show how Stack and Queue work with examples.
